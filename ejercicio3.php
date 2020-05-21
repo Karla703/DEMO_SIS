@@ -25,6 +25,7 @@
     <title>Ejercicio 1</title>
 </head>
 <body>
+<h3>nuevo cambio</h3>
 <p> no entiendo lo que estoy haciendo </p>
     <h2>Mostrar en pantalla el área y perimetro de un rectángulo</h2>
     <hr>
