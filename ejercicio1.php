@@ -20,6 +20,10 @@
 </head>
 <body>
 <p> no entiendo lo que estoy haciendo </p>
+
+<h1>hola </h1>
+<hr>
+
     <h2>Mostrar en pantalla cuanto obtendrá de comosion el vendedor si realiza 3, 10 0 15 ventas en el mes. Se mostrara sueldo base, total de la comision y el sueldo con la comision</h2>
     <hr>
 
