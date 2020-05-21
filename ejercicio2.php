@@ -22,6 +22,7 @@
     <h2>Calcular ganancia del usuario</h2>
     <hr>
 <p> no entiendo lo que estoy haciendo </p>
+<p>esto es un cambio</p>
 
     <form action="ejercicio2.php" method="post">
         <label for="txtahorro">Ahorro : </label>
